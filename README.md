@@ -26,3 +26,42 @@ My primary server is an unlimited account, and I have two block accounts as back
 1. [Astraweb](http://www.news.astraweb.com/) - My primary account (unlimited)
 2. [Tweaknews](https://www.tweaknews.eu/) - Backup account (block)
 3. [Blocknews](http://blocknews.net/) - Backup account (block)
+
+Usenet Search Providers
+-----------------------
+
+These are the websites you use to search for files to download. Many of them come with APIs that allow searching and downloading to be automated (very important for Sick Beard), which is typically unlocked after paying a small yearly fee to become a VIP member. Most of the good providers are private and invite only.
+
+Here are the search providers I'm currently using:
+
+- [omgwtfnzbs](https://omgwtfnzbs.org/) (VIP)
+- [nMatrix](https://www.nmatrix.co.za/) (VIP)
+- [nzb.su](https://nzb.su/index.php)
+- [NZB Finder](https://www.nzbfinder.ws/)
+
+*A word of caution: I've heard reports of credit card numbers being stolen from one of the above sites, so I only pay for VIP memberships with Paypal or Bitcoin.*
+
+SABnzbd
+-------
+
+TODO
+
+Sick Beard
+----------
+
+TODO
+
+Couch Potato
+------------
+
+TODO
+
+Plex Media Server
+-----------------
+
+TODO
+
+Pushover
+--------
+
+TODO
